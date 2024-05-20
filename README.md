@@ -2,4 +2,4 @@
 Este repositorio guardas mis tareas del modulo 3
 Nombre: Jerry Giovanny Colorado Cano
 usuario: jerrycol25
-correo: jerrycol
+correo: jerrycol@gmail.com
